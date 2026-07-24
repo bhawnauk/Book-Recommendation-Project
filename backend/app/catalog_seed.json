@@ -1,0 +1,646 @@
+[
+  {
+    "id": "gone-girl",
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genres": [
+      "thriller",
+      "mystery"
+    ],
+    "moods": [
+      "twisty",
+      "unreliable-narrator",
+      "claustrophobic",
+      "psychological"
+    ],
+    "why_it_works": "The unreliable narrator and twisty plot keep readers guessing, creating a claustrophobic atmosphere of suspense.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8368314-M.jpg",
+    "first_publish_year": 2011,
+    "comp_ids": [
+      "the-silent-patient",
+      "the-haunting-of-hill-house"
+    ]
+  },
+  {
+    "id": "the-silent-patient",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genres": [
+      "thriller",
+      "mystery"
+    ],
+    "moods": [
+      "twisty",
+      "unreliable-narrator",
+      "clinical",
+      "psychological"
+    ],
+    "why_it_works": "The novel's structure, alternating between Alicia and Theo's perspectives, creates a claustrophobic tension that keeps the reader guessing until the shocking reveal.",
+    "cover_url": "https://covers.openlibrary.org/b/id/9407338-M.jpg",
+    "first_publish_year": 2018,
+    "comp_ids": [
+      "gone-girl",
+      "the-seven-husbands-of-evelyn-hugo"
+    ]
+  },
+  {
+    "id": "sharp-objects",
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "genres": [
+      "thriller",
+      "literary-fiction"
+    ],
+    "moods": [
+      "twisty",
+      "unreliable-narrator",
+      "claustrophobic",
+      "melancholy"
+    ],
+    "why_it_works": "The unreliable narration and claustrophobic setting of the Victorian mansion create a tense, unsettling atmosphere that drives the narrative forward.",
+    "cover_url": "https://covers.openlibrary.org/b/id/167973-M.jpg",
+    "first_publish_year": 2006,
+    "comp_ids": [
+      "mexican-gothic",
+      "rebecca"
+    ]
+  },
+  {
+    "id": "in-the-woods",
+    "title": "In the Woods",
+    "author": "Tana French",
+    "genres": [
+      "thriller",
+      "mystery"
+    ],
+    "moods": [
+      "atmospheric",
+      "twisty",
+      "claustrophobic",
+      "psychological"
+    ],
+    "why_it_works": "The intricate plot, rich atmosphere, and psychological depth create a claustrophobic tension that keeps the reader guessing until the surprising conclusion.",
+    "cover_url": "https://covers.openlibrary.org/b/id/1474730-M.jpg",
+    "first_publish_year": 2001,
+    "comp_ids": [
+      "the-haunting-of-hill-house",
+      "gone-girl"
+    ]
+  },
+  {
+    "id": "my-sister-the-serial-killer",
+    "title": "My Sister, the Serial Killer",
+    "author": "Oyinkan Braithwaite",
+    "genres": [
+      "thriller",
+      "dark-comedy"
+    ],
+    "moods": [
+      "witty",
+      "claustrophobic",
+      "unreliable-narrator",
+      "twisty"
+    ],
+    "why_it_works": "The unreliable narrator and twisty plot keep the reader guessing, while the witty dialogue and claustrophobic setting enhance the darkly comic tone.",
+    "cover_url": "https://covers.openlibrary.org/b/id/10721487-M.jpg",
+    "first_publish_year": 2018,
+    "comp_ids": [
+      "sharp-objects",
+      "mexican-gothic"
+    ]
+  },
+  {
+    "id": "project-hail-mary",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genres": [
+      "sci-fi"
+    ],
+    "moods": [
+      "propulsive",
+      "hopeful",
+      "problem-solving",
+      "witty"
+    ],
+    "why_it_works": "The book's propulsive pacing and scientific detail keep the reader engaged, while the claustrophobic setting of a small ship adds tension.",
+    "cover_url": "https://covers.openlibrary.org/b/id/11200092-M.jpg",
+    "first_publish_year": 2021,
+    "comp_ids": [
+      "the-martian",
+      "born-a-crime"
+    ]
+  },
+  {
+    "id": "the-martian",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genres": [
+      "sci-fi"
+    ],
+    "moods": [
+      "propulsive",
+      "hopeful",
+      "problem-solving",
+      "witty"
+    ],
+    "why_it_works": "The book's pacing is propulsive as it races against time, the tone is hopeful and witty despite the dire situation, and the problem-solving elements keep readers engaged.",
+    "cover_url": "https://covers.openlibrary.org/b/id/11447888-M.jpg",
+    "first_publish_year": 2011,
+    "comp_ids": [
+      "project-hail-mary",
+      "born-a-crime"
+    ]
+  },
+  {
+    "id": "children-of-time",
+    "title": "Children of Time",
+    "author": "Adrian Tchaikovsky",
+    "genres": [
+      "sci-fi"
+    ],
+    "moods": [
+      "epic",
+      "big-ideas",
+      "propulsive",
+      "hopeful"
+    ],
+    "why_it_works": "The narrative's high stakes and unexpected twists keep readers engaged as two civilizations clash, while the claustrophobic setting of a newly terraformed planet adds tension.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8264706-M.jpg",
+    "first_publish_year": 2015,
+    "comp_ids": [
+      "the-martian",
+      "project-hail-mary"
+    ]
+  },
+  {
+    "id": "the-three-body-problem",
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "genres": [
+      "sci-fi"
+    ],
+    "moods": [
+      "big-ideas",
+      "cerebral",
+      "slow-burn",
+      "unsettling"
+    ],
+    "why_it_works": "Hard-science speculation used to generate genuine dread about first contact \u2014 the ideas themselves are the plot engine.",
+    "cover_url": null,
+    "first_publish_year": 2008,
+    "comp_ids": [
+      "klara-and-the-sun",
+      "the-name-of-the-wind"
+    ]
+  },
+  {
+    "id": "the-name-of-the-wind",
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss, Marc Simonetti",
+    "genres": [
+      "fantasy"
+    ],
+    "moods": [
+      "epic",
+      "immersive",
+      "lyrical",
+      "slow-burn"
+    ],
+    "why_it_works": "The narrative's depth and the protagonist's internal monologue create an immersive, psychological journey that explores themes of identity and legacy.",
+    "cover_url": "https://covers.openlibrary.org/b/id/11480483-M.jpg",
+    "first_publish_year": 2007,
+    "comp_ids": [
+      "circe",
+      "klara-and-the-sun"
+    ]
+  },
+  {
+    "id": "the-lies-of-locke-lamora",
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "genres": [
+      "fantasy"
+    ],
+    "moods": [
+      "heist",
+      "witty",
+      "banter-heavy",
+      "epic"
+    ],
+    "why_it_works": "The novel excels through its intricate heist plots and sharp, witty dialogue between characters.",
+    "cover_url": "https://covers.openlibrary.org/b/id/6307636-M.jpg",
+    "first_publish_year": 2001,
+    "comp_ids": [
+      "the-house-in-the-cerulean-sea",
+      "six-of-crows"
+    ]
+  },
+  {
+    "id": "six-of-crows",
+    "title": "Six of Crows",
+    "author": "Leigh Bardugo",
+    "genres": [
+      "fantasy"
+    ],
+    "moods": [
+      "heist",
+      "propulsive",
+      "witty",
+      "found-family"
+    ],
+    "why_it_works": "The intricate plot and ensemble cast create a propulsive heist narrative, while the witty dialogue and found-family dynamics keep readers engaged.",
+    "cover_url": "https://covers.openlibrary.org/b/id/12667417-M.jpg",
+    "first_publish_year": 2015,
+    "comp_ids": [
+      "the-thursday-murder-club",
+      "the-martian"
+    ]
+  },
+  {
+    "id": "a-darker-shade-of-magic",
+    "title": "A Darker Shade of Magic",
+    "author": "V.E. Schwab",
+    "genres": [
+      "fantasy"
+    ],
+    "moods": [
+      "epic",
+      "immersive",
+      "twisty",
+      "propulsive"
+    ],
+    "why_it_works": "The intricate world-building and multiple London settings create an immersive experience, while the twisty plot and claustrophobic tension keep readers engaged.",
+    "cover_url": "https://covers.openlibrary.org/b/id/7410930-M.jpg",
+    "first_publish_year": 2015,
+    "comp_ids": [
+      "the-name-of-the-wind",
+      "children-of-time"
+    ]
+  },
+  {
+    "id": "piranesi",
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "genres": [
+      "fantasy"
+    ],
+    "moods": [
+      "claustrophobic",
+      "lyrical",
+      "unreliable-narrator",
+      "melancholy"
+    ],
+    "why_it_works": "The intricate, unreliable narrative and vivid, surreal imagery create an immersive, claustrophobic yet expansive world that captivates the reader.",
+    "cover_url": "https://covers.openlibrary.org/b/id/10226290-M.jpg",
+    "first_publish_year": 2020,
+    "comp_ids": [
+      "sharp-objects",
+      "rebecca"
+    ]
+  },
+  {
+    "id": "never-let-me-go",
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "genres": [
+      "literary-fiction",
+      "sci-fi"
+    ],
+    "moods": [
+      "melancholy",
+      "quiet",
+      "slow-burn",
+      "devastating"
+    ],
+    "why_it_works": "The narrative's quiet, lyrical prose and emotional depth create a poignant exploration of friendship and loss.",
+    "cover_url": "https://covers.openlibrary.org/b/id/1047334-M.jpg",
+    "first_publish_year": 2005,
+    "comp_ids": [
+      "klara-and-the-sun",
+      "the-glass-castle"
+    ]
+  },
+  {
+    "id": "the-house-in-the-cerulean-sea",
+    "title": "The House in the Cerulean Sea",
+    "author": "T. J. Klune",
+    "genres": [
+      "fantasy",
+      "romance"
+    ],
+    "moods": [
+      "witty",
+      "heartwarming",
+      "emotional",
+      "banter-heavy"
+    ],
+    "why_it_works": "The witty dialogue and emotional depth of the characters make this a heartwarming romance that resonates with readers.",
+    "cover_url": "https://covers.openlibrary.org/b/id/9312772-M.jpg",
+    "first_publish_year": 2019,
+    "comp_ids": [
+      "the-lies-of-locke-lamora",
+      "legends-lattes"
+    ]
+  },
+  {
+    "id": "legends-lattes",
+    "title": "Legends & Lattes",
+    "author": "Travis Baldree",
+    "genres": [
+      "fantasy"
+    ],
+    "moods": [
+      "cozy",
+      "witty",
+      "heartwarming"
+    ],
+    "why_it_works": "The narrative balances humor and warmth, making Viv\u2019s journey relatable and engaging as she navigates both the literal and figurative challenges of starting anew.",
+    "cover_url": "https://covers.openlibrary.org/b/id/13028635-M.jpg",
+    "first_publish_year": 2022,
+    "comp_ids": [
+      "a-man-called-ove",
+      "the-thursday-murder-club"
+    ]
+  },
+  {
+    "id": "the-seven-husbands-of-evelyn-hugo",
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genres": [
+      "romance",
+      "literary-fiction"
+    ],
+    "moods": [
+      "emotional",
+      "twisty",
+      "unreliable-narrator",
+      "glamorous"
+    ],
+    "why_it_works": "The narrative structure, with its unreliable narrator and multiple perspectives, keeps the reader engaged as they piece together Evelyn's complex life story. The emotional journey of both Evelyn and Monique adds depth to the plot.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8354226-M.jpg",
+    "first_publish_year": 2017,
+    "comp_ids": [
+      "daisy-jones-the-six",
+      "the-silent-patient"
+    ]
+  },
+  {
+    "id": "daisy-jones-the-six",
+    "title": "Daisy Jones & The Six",
+    "author": "Taylor Jenkins Reid",
+    "genres": [
+      "romance",
+      "literary-fiction"
+    ],
+    "moods": [
+      "twisty",
+      "unreliable-narrator",
+      "emotional",
+      "glamorous"
+    ],
+    "why_it_works": "The narrative's unreliable nature and the twisty, emotional journey of a legendary rock band's rise and fall keep readers engaged.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8742674-M.jpg",
+    "first_publish_year": 2019,
+    "comp_ids": [
+      "the-seven-husbands-of-evelyn-hugo",
+      "the-silent-patient"
+    ]
+  },
+  {
+    "id": "beach-read",
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "genres": [
+      "romance"
+    ],
+    "moods": [
+      "banter-heavy",
+      "emotional",
+      "hopeful",
+      "problem-solving"
+    ],
+    "why_it_works": "The dynamic between the two protagonists and their evolving relationship provide emotional depth, while the challenge they set for themselves adds a problem-solving element to the narrative.",
+    "cover_url": "https://covers.openlibrary.org/b/id/9426296-M.jpg",
+    "first_publish_year": 2020,
+    "comp_ids": [
+      "the-martian",
+      "the-house-in-the-cerulean-sea"
+    ]
+  },
+  {
+    "id": "mexican-gothic",
+    "title": "Mexican Gothic",
+    "author": "Silvia Moreno-Garcia",
+    "genres": [
+      "horror",
+      "gothic"
+    ],
+    "moods": [
+      "claustrophobic",
+      "twisty",
+      "unreliable-narrator",
+      "melancholy"
+    ],
+    "why_it_works": "The narrative's claustrophobic atmosphere and unreliable narrator create a tense, unsettling experience that keeps the reader guessing until the chilling conclusion.",
+    "cover_url": "https://covers.openlibrary.org/b/id/10239163-M.jpg",
+    "first_publish_year": 2020,
+    "comp_ids": [
+      "sharp-objects",
+      "rebecca"
+    ]
+  },
+  {
+    "id": "the-haunting-of-hill-house",
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "genres": [
+      "horror",
+      "gothic"
+    ],
+    "moods": [
+      "claustrophobic",
+      "unsettling",
+      "twisty",
+      "psychological"
+    ],
+    "why_it_works": "The narrative's psychological depth and the gradual escalation of tension create a claustrophobic, unsettling atmosphere that keeps readers on edge.",
+    "cover_url": "https://covers.openlibrary.org/b/id/4289014-M.jpg",
+    "first_publish_year": 1959,
+    "comp_ids": [
+      "in-the-woods",
+      "gone-girl"
+    ]
+  },
+  {
+    "id": "rebecca",
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "genres": [
+      "gothic",
+      "mystery"
+    ],
+    "moods": [
+      "claustrophobic",
+      "unreliable-narrator",
+      "melancholy"
+    ],
+    "why_it_works": "The narrative's claustrophobic setting and unreliable narrator create a tense, gothic atmosphere that keeps the reader guessing about the true nature of events.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8238729-M.jpg",
+    "first_publish_year": 1938,
+    "comp_ids": [
+      "sharp-objects",
+      "piranesi"
+    ]
+  },
+  {
+    "id": "educated",
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genres": [
+      "memoir"
+    ],
+    "moods": [
+      "devastating",
+      "hopeful",
+      "emotional",
+      "uplifting"
+    ],
+    "why_it_works": "Through vivid, lyrical prose and an emotional journey, Westover's memoir uplifts readers by showcasing the power of education to transform lives, despite overwhelming obstacles.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8314077-M.jpg",
+    "first_publish_year": 2018,
+    "comp_ids": [
+      "the-glass-castle",
+      "born-a-crime"
+    ]
+  },
+  {
+    "id": "the-glass-castle",
+    "title": "The Glass Castle",
+    "author": "Jeannette Walls",
+    "genres": [
+      "memoir"
+    ],
+    "moods": [
+      "devastating",
+      "melancholy",
+      "domestic",
+      "emotional"
+    ],
+    "why_it_works": "The memoir's raw, unfiltered narrative and the author's shifting perspective create a compelling and often uncomfortable account of her upbringing.",
+    "cover_url": "https://covers.openlibrary.org/b/id/11517692-M.jpg",
+    "first_publish_year": 2005,
+    "comp_ids": [
+      "never-let-me-go",
+      "educated"
+    ]
+  },
+  {
+    "id": "born-a-crime",
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "genres": [
+      "memoir"
+    ],
+    "moods": [
+      "witty",
+      "propulsive",
+      "hopeful",
+      "emotional"
+    ],
+    "why_it_works": "The memoir's structure, with its unreliable narrator and vivid, often humorous anecdotes, creates a claustrophobic yet hopeful portrait of life under apartheid.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8294078-M.jpg",
+    "first_publish_year": 2016,
+    "comp_ids": [
+      "the-martian",
+      "project-hail-mary"
+    ]
+  },
+  {
+    "id": "the-thursday-murder-club",
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "genres": [
+      "mystery",
+      "cozy-mystery"
+    ],
+    "moods": [
+      "cozy",
+      "witty",
+      "found-family",
+      "hopeful"
+    ],
+    "why_it_works": "The book excels through its witty dialogue and unreliable narrator dynamics, keeping readers engaged as the Thursday Murder Club navigates their first live case with humor and ingenuity.",
+    "cover_url": "https://covers.openlibrary.org/b/id/10201431-M.jpg",
+    "first_publish_year": 2020,
+    "comp_ids": [
+      "a-man-called-ove",
+      "the-martian"
+    ]
+  },
+  {
+    "id": "circe",
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genres": [
+      "fantasy"
+    ],
+    "moods": [
+      "epic",
+      "lyrical",
+      "slow-burn",
+      "emotional"
+    ],
+    "why_it_works": "The narrative's psychological depth and unreliable narrator create a claustrophobic yet expansive world, while the epic scope of Circe's journey through mythological figures drives the story forward.",
+    "cover_url": "https://covers.openlibrary.org/b/id/8739376-M.jpg",
+    "first_publish_year": 2018,
+    "comp_ids": [
+      "the-name-of-the-wind",
+      "klara-and-the-sun"
+    ]
+  },
+  {
+    "id": "klara-and-the-sun",
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "genres": [
+      "literary-fiction",
+      "sci-fi"
+    ],
+    "moods": [
+      "melancholy",
+      "lyrical",
+      "slow-burn",
+      "quiet",
+      "unsettling"
+    ],
+    "why_it_works": "A narrator with limited understanding lets the reader feel the emotional weight before the character does \u2014 restraint generates the ache.",
+    "cover_url": null,
+    "first_publish_year": 2021,
+    "comp_ids": [
+      "never-let-me-go",
+      "the-three-body-problem"
+    ]
+  },
+  {
+    "id": "a-man-called-ove",
+    "title": "A Man Called Ove",
+    "author": "Fredrik Backman",
+    "genres": [
+      "literary-fiction"
+    ],
+    "moods": [
+      "cozy",
+      "witty",
+      "uplifting",
+      "found-family",
+      "heartwarming"
+    ],
+    "why_it_works": "A grump slowly thawed by an accidental community \u2014 humor and warmth are earned through specific, small acts, not sentimentality.",
+    "cover_url": null,
+    "first_publish_year": 2012,
+    "comp_ids": [
+      "the-thursday-murder-club",
+      "legends-lattes"
+    ]
+  }
+]

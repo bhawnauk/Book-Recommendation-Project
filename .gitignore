@@ -1,0 +1,19 @@
+# Python
+backend/.venv/
+**/__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Vercel
+.vercel
+
+# Environment files — never commit secrets (keep .env.example as a template)
+.env*
+!.env.example
