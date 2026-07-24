@@ -1,12 +1,12 @@
 # Book Recommender
 
-Recommends books by what actually made them work — tone, pacing, structure — instead of collapsing everything into a star rating. Tell it a book you loved, or pick a genre and mood, and it hands back a short shortlist with a real reason for each pick.
+Recommends books by what actually made them work is their tone, pacing, structure instead of collapsing everything into a star rating. Tell it a book you loved, or pick a genre and mood, and it hands back a short shortlist with a real reason for each pick.
 
 ![Book Recommender screenshot](docs/screenshot.png)
 
 ## Why
 
-A star rating flattens everything into the same five points. Two five-star thrillers can share nothing tonally — one's a slow-burn character study, the other's a plot-twist machine. This app skips the rating and matches on the qualities that actually decide whether a book will land for you.
+A star rating flattens everything into the same five points. Two five-star thrillers can share nothing tonally one's a slow-burn character study, the other's a plot-twist machine. This app skips the rating and matches on the qualities that actually decide whether a book will land for you.
 
 ## Features
 
