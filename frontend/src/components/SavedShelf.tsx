@@ -8,7 +8,10 @@ interface SavedShelfProps {
 export function SavedShelf({ saved, onRemove }: SavedShelfProps) {
   return (
     <aside className="saved-shelf" aria-label="Your saved shortlist">
-      <h2>Your shelf</h2>
+      <h2>
+        Your shelf
+        {saved.length > 0 && <span className="saved-shelf__count">{saved.length}</span>}
+      </h2>
       {saved.length === 0 ? (
         <p className="saved-shelf__empty">
           Nothing saved yet. Books you save will collect here — a running shortlist, not a

@@ -128,7 +128,7 @@ export function SearchPanel({
               type="text"
               inputMode="text"
               autoComplete="off"
-              placeholder="Type something......"
+              placeholder="Start typing a title, e.g. Gone Girl"
               value={titleQuery}
               onChange={(e) => {
                 setTitleQuery(e.target.value);
